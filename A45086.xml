@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble remonstrance and petition of certain churches vvalking in the fellowship of the faith and in the order of the Gospel with the Churches of Christ in America who joyn in this remonstrance and petition with many other godly persons (including some of our brethren now in Scotland) : having also the full content and concurrence of many others elsewhere ...</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45086</idno><idno type="EEBO-CITATION">10784625</idno>
+  <idno type="VID">45847</idno>
+  <idno type="EEBO-PROQUEST">2264170943</idno>
+  
+            <idno type="STC">Wing H3606</idno>
+            <idno type="STC">ESTC R28934</idno>
+            <idno type="OCLC">10784625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble remonstrance and petition of certain churches vvalking in the fellowship of the faith and in the order of the Gospel with the Churches of Christ in America who joyn in this remonstrance and petition with many other godly persons (including some of our brethren now in Scotland) : having also the full content and concurrence of many others elsewhere ...</title>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Congregational churches.</term>
+               <term type="topical_term">Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45847:1"/>
+            <p>THE HUMBLE REMONSTRANCE AND PETITION OF CERTAIN CHURCHES VValking in the fellowship of the Faith, and in the Order of the GOSPEL, with the CHURCHES of CHRIST in <hi>AMERICA.</hi>
+            </p>
+            <p>Who joyn in this REMONSTRANCE and PETITION with many other Godly Persons (includ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng some of our English BRETHREN now in SCOTLAND.)</p>
+            <p>Having also the full consent and concurrence of many others els<g ref="char:EOLhyphen"/>where, (professing the Truth which is after godlinesse) who (with the rest above-named) are all as one Man, joyntly and severally well-affected to the settling of such a Government in this Common-wealth, under which we may live a quiet and peaceable life, in all godlinesse and honesty.</p>
+            <p>Printed <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45847:2"/>
+            <pb n="3" facs="tcp:45847:2"/>
+            <head>
+               <hi>TO HIS EXCELLENCY THE LORD-GENERALL CROMVVELL,</hi> And (by His Lordships goodnesse <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd favour) to be communicated unto all now acting, and immediatly concerned in the highest Affairs of this <hi>COMMON WEALTH,</hi> who are called, and chosen, and faithfull.</head>
+            <opener>
+               <salute>
+                  <hi>May it please Your</hi> EXCELLENCY,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He LORD only wise, who is great in counsell, and wonderfull in working, hath been pleased oftentimes in this Age, to appear unto us as a GOD of glorious Majesty; and not only so, but as the GOD of our Mercy, <hi>riding</hi> (as the Prophet speaks) for our deliverance, <hi>upon his horses and chariots of salvation;</hi> who in our low estate hath looked upon us, and in our deepest distresses hath made answer to us, (though by terrible things in righteousnesse.) The means he hath used for this end, and the Instruments whom he hath honoured and anointed above their fellows; for the Exe<g ref="char:EOLhyphen"/>cution of his purpose and good pleasure in such a case, hath put us (both in former times, and now of late more especially) upon the
+<pb n="4" facs="tcp:45847:3"/> serious consideration of that which is some-where said by the Pro<g ref="char:EOLhyphen"/>phet <hi>Daniel, The people that do know their God, shall be strong and do exploits.</hi> We may wel and truly say, To day is this Scripture ful<g ref="char:EOLhyphen"/>filled in our eyes; and fulfilled in that late Exploit of driving out the <hi>Buyers, Sellers, and Money-changers of these times,</hi> from the Supream Seats of Justice, (reserving alwayes all due Honour and Acknowledgment, with most humble thankfulnesse for all those Worthies in that late Authority, who have acted purely &amp; sincerely for the Publick Interest, not seeking great things for themselves.</p>
+            <p>Upon that Act of our Saviour in clensing the Temple, was brought to mind this saying, <hi>The zeal of thy house hath eaten me up;</hi> and it well becomes that charity (which according to the sense &amp; meaning of the Apostle) <hi>believeth al things, and hopeth al things;</hi> to believe and hope concerning this act of dissolving the Parliament, that it is a true effect and expression of the very same zeal▪ proceeding from the same minde and Spirit which was in CHRIST JESUS.</p>
+            <p>The dissolution of the Parliament having made so great a change, and there being at this day in this Nation, so many Grievances left upon us, (if not laid upon us by that Government, whom the LORD hath now removed) &amp; <hi>such</hi> YOKES <hi>upon our necks, as neither we, nor our fathers are able to bear;</hi> it is like (ere long) to be the com<g ref="char:EOLhyphen"/>mon cry from al parts &amp; quarters of the Land, which was somtimes remonstrated by the people of <hi>Israel,</hi> upon the death of <hi>Solomon.</hi>
+            </p>
+            <p>
+               <hi>Thy father made our</hi> YOKE <hi>Grievous; now therefore ease thou somewhat of the Grievous servitude of thy father, and the heavy</hi> YOKE <hi>that he put upon us, and we will serve thee.</hi>
+            </p>
+            <p>In this case it is not hard to praescribe the best and safest course, considering what is said therein by <hi>Solomons</hi> old Counsellors, which is thus recorded in the Story;</p>
+            <p>
+               <hi>If thou wilt be a servant to this People, if thou wilt be kinde, and please them, and speak good words to them, they will be thy servants for ever.</hi>
+            </p>
+            <p>In the late Kings Reign, there was a very GREIVOUS YOKE upon the neck of this Nation, by reason of the LAW, (as relating to Episcopacy, and many other Constitutions,) in all which cases, the Law in those times, was not unlike the <hi>Statutes of Omri;</hi> and notwith<g ref="char:EOLhyphen"/>standing all that Reformation which hath passed upon the Law, (ex<g ref="char:EOLhyphen"/>cept in some particulars) to the shame of som it may be spoken, that the <hi>high places are not yet removed to this very day:</hi> the Law of <hi>England</hi> (con<g ref="char:EOLhyphen"/>sidered in the whole frame and body of it) being far short of holding forth the true and lively Character of His Authority, Image and Su<g ref="char:EOLhyphen"/>perscription,
+<pb n="5" facs="tcp:45847:3"/> who is the <hi>Only</hi> POTENTATE, <hi>the KING of Kings, and LORD of Lords.</hi>
+            </p>
+            <p>We have not hitherto had the honour and happiness of taking His YOKE upon us, who is, and ought to be for ever owned as our only JUDGE, <hi>our</hi> LAW-GIVER, <hi>and our</hi> KING; not only in Spiritual, but in all Civil Constitutions and Administrations whatsoever: and it is our lamentation, and shall be for a lamentation, that other lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds have ruled over us, whose hard and heavie YOKES have been laid upon us, and yet (as relating to the Government of CHRIST in the Civil part of it) it is a Truth established upon a better Foundation then the pillars of Heaven and Earth, that <hi>His YOKE is easie, and His Burden is light.</hi> And in this sense, upon this occasion, we may safely use the same words, which <hi>Job</hi> unsafely uttered in his Paroxismes; <hi>Oh, that we might have our request, and that GOD would grant us the thing that we long for!</hi>
+            </p>
+            <p>We have designed brevity, for fear of being teadious; in which re<g ref="char:EOLhyphen"/>spect (though, as confiding in the Cause, most willingly we would engage; yet on the other hand) we are constrained to decline the close and narrow disquisition of that great enquiry, <hi>Whether the judicials (we do not say of</hi> Moses, <hi>but) of the Word of GOD be extended to all Ages by Divine Appointment?</hi>
+            </p>
+            <p>To which we shal say thus much only at the present as we pass along;</p>
+            <p>If every word must stand in the mouth of two or three witnesses; we may then conclude (without the leave of any Adversary) that the af<g ref="char:EOLhyphen"/>firmative part of this Question will be setled upon a firm foundation by more then two or three Arguments, offering themselves without the least obscurity from those two famous and faithful Scripture testi<g ref="char:EOLhyphen"/>monies (<hi>Deut.</hi> 4.6, 7, 8. <hi>Mal.</hi> 4.4.) which speak in this case as the <hi>lively Oracles of GOD</hi> unto all men who have ears to hear, and hearts to entertain a truth in the love of it.</p>
+            <p>In the next place, we humbly remonstrate to your Excellency, That there are other Grievous YOKES upon us; (which are woful de<g ref="char:EOLhyphen"/>monstrations of our late mis-government) by those swarms of uselesse Officers which have been erected and established with respect of per<g ref="char:EOLhyphen"/>sons, against the publick interest; and these YOKES of IRON are yet more grievous, both by excessive Salleries, and by the extream un<g ref="char:EOLhyphen"/>faithfulness of men intrusted, who act about the EXCISE, CUS<g ref="char:EOLhyphen"/>TOMES, ASSESMENTS, and other Revenues of the Com<g ref="char:EOLhyphen"/>monwealth in the Accompts they give of their Stewardship, (if any at all be given, which we have great cause to question) as the unfaithful servant in the Gospel, who for <hi>one hundred measures of oyl</hi> which was due unto his Master, <hi>took his bill and set down fifty; and for one hundred measures of wheat, took his bill and writ fourscore.</hi>
+            </p>
+            <p>Besides these YOKES above mentioned, We might add many
+<pb n="6" facs="tcp:45847:4"/> more, and subscribe at the foot of that Accompt, <hi>the one half hath not been told:</hi> But among the rest, we humbly Remonstrate to your Excellency, the sad Oppression of this Nation, by a gene<g ref="char:EOLhyphen"/>ration of Men in Civil Power, who have both out lived; and (in some respect;) out-sinned our late wicked Clergy, in plurality of places; These are they who <hi>reap where they have not sowen, and gather where they have not strawed.</hi> And these are they who do not one<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y cumber the ground as barren figtrees, (<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>using many who m ght be useful, to stand idle in the Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ket-place) but as briars and thorns they choke those better f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uits that otherwise would be produced. These Caterpilla<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> COM<g ref="char:EOLhyphen"/>MON WEALTH, like the Locusts of <hi>Egypt,</hi> have (as much as in them<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es) devoured and destroyed that which other Plagues had left.</p>
+            <p>But though all this be come upon us, we must professe for ever that th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord is holy; acknowledging to the praise of H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s long-suffering and patience, that He hath punished us lesse then our iniquities deserve. And though we have sometimes <hi>mourned sore like doves, and been in desolate places as dead men, stumbling at noonday as in the night, and have looked long for judgment, but behold oppression; and for righteousnesse, but behold a cry;</hi> Yet when we call to minde <hi>the years of the right hand of the most High,</hi> and consider his wondrous works both in our times, and in the dayes of old; we cannot but conclude with <hi>Sbecaniah</hi> (in a very l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke case) <hi>There is hope in</hi> Israel <hi>concerning this;</hi> And we may say (by what we have observed) There is a generall expectation that Deliverance shall arise to this distressed Nation; and who knows whether your Lordship is come to this height of Honour for such a time as this? Who knows but that your Lord<g ref="char:EOLhyphen"/>ship may be used and accepted as most eminently instrumentall, in <hi>building the old wast places, and in raising up foundations for many generations.</hi>
+            </p>
+            <p>In such a case as this, we humbly offer to your Excellency, as most worthy of imitation, that which is recorded of <hi>Hezekiah</hi> in 2 <hi>Chro.</hi> 31.20. <hi>Thus did Hezekiah throughout all Judah, working that which was good, and right, and truth before the LORD his GOD, and in every work that he began in the SERVICE of the HOƲSE of GOD, and in the LAW; he did it with all his heart and prospered.</hi>
+            </p>
+            <pb n="7" facs="tcp:45847:4"/>
+            <p>We have good hope, through grace, (considering what the Lord hath spoken, <hi>Jer.</hi> 5.1. and what good proof of such a Christian cha<g ref="char:EOLhyphen"/>racter hath appeared in your Excellency) that by the favour of our GOD unto His People, your Lordship is accounted worthy (as a means of our Mercy) to save and recover the Commonwealth of <hi>England.</hi> Hence, the consideration of that saying in the Prophesie of <hi>Obadiah,</hi> wil be of high concernment to your Excellency (which being as a word in season to the point in hand, is like Apples of Gold in Pictures of Silver) <hi>Saviours shall come upon</hi> Mount Zion, <hi>they shal judge the Mount of</hi> Esau; <hi>and the Kingdom shall be the LORDS.</hi>
+            </p>
+            <p>The gracious accomplishment of so great a Promise, would give a full redress and freedom from those evill Pressures, of which we most complain.</p>
+            <p>
+               <hi>Now for Zions sake we will not hold our peace, and for Jerusa<g ref="char:EOLhyphen"/>lems sake we will not rest; untill the Righteousnesse thereof break forth as brightnesse, and the salvation thereof as a lamp that bur<g ref="char:EOLhyphen"/>neth.</hi> Wherefore,</p>
+            <p>We most humbly beseech your Excellency, That by the utmost improvement of your powerfull Interest, <hi>The LORD alone</hi> may be exalted this day; and exalted in all the consequences of this great Change, relating both to Sacred and Civil Government; that (as the Prophet speaks) <hi>the Mount of</hi> Esau <hi>may be judged,</hi> the oppres<g ref="char:EOLhyphen"/>sed People of <hi>England</hi> may be at last relieved, the Iron YOKES of cruel bondage may be broken: that all Arbitrary Impositions and Exactions may from henceforth be abandoned; which (as hath been found by wofull experience) have not onely out-lived <hi>Laud</hi> and <hi>Strafford,</hi> but out-reigned their Master: That a Civil <hi>Jubile</hi> from all unjust and unequal servitude being now proclaimed, and the YOKE of JESUS CHRIST accepted, (who is our only Judge, our Law-giver, and our King) <hi>The Kingdom may be the LORDS,</hi> the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England</hi> may be the LORDS; and being his pecu<g ref="char:EOLhyphen"/>liar People, it will soon be said of us, by all that are about us, as is foretold of <hi>Israel,</hi> and to be fulfilled upon them in their best and most blessed times, <hi>The LORD blesse thee, thou habitation of ju<g ref="char:EOLhyphen"/>stice, and mountain of holiness.</hi>
+            </p>
+            <p>We most humbly beseech your Excellency to continue following the LORD, as you do this day, <hi>(for now we live, if you stand fast
+<pb n="8" facs="tcp:45847:5"/> in the LORD.)</hi> And we beseech your Excellency to continue seeking the wealth and welfare of this Nation, and to seek it with all your might, in all that you put your hand unto; And let it be the <hi>Alpha</hi> and <hi>Omega</hi> of all your designs (which will be the <hi>Al<g ref="char:EOLhyphen"/>pha</hi> &amp; <hi>Omega</hi> of all our mercies) that the Lord JESUS CHRIST <hi>(whose right it is)</hi> may have the preheminence in all things; (all Crowns, Powers, Governments, Dignities and Dominions, being duly subjected to Him, and cast down before Him, at His Footstool) that in all cases and concernments whatsoever, we may be ruled on<g ref="char:EOLhyphen"/>ly <hi>by a Scepter of Righteousness, which is the Scepter of His King<g ref="char:EOLhyphen"/>dom.</hi> And thus to sit down, and dwell safely (as they did in the dayes of <hi>Solomon</hi>) under our own Vines, and under our own Fig<g ref="char:EOLhyphen"/>trees, can never be attained fully and in all respects, but where persons in Government are <hi>Ministers of Righteousnesse,</hi> ruling in the fear of God, men of truth, and hating covetousness.</p>
+            <p>These, and only these, are the truly Noble and Right Honoura<g ref="char:EOLhyphen"/>ble <hi>Ministers of State,</hi> the <hi>Keepers of the Liberties</hi> of the Politi<g ref="char:EOLhyphen"/>cal Kingdom of our Lord JESUS CHRIST (of all other men most worthy to be entrusted as <hi>Keepers</hi> of the <hi>Liberties</hi> of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England.</hi>) These are like the threescore valiant men <hi>(of the valiant of Israel)</hi> who stood about the bed of <hi>Solomon:</hi> These are they who will attend the Lord JESUS (with all faith<g ref="char:EOLhyphen"/>fulness) in all the political motions and administrations of His Go<g ref="char:EOLhyphen"/>vernment; Like those <hi>Worthies in Israel,</hi> of whom we read, who came with a perfect heart to make <hi>David</hi> King, and were not of a double mind. Other men, (acting meerly by moral principles) though they may at times pretend much in such a case as this, yet at the last they will appear to be, <hi>but as deceitful brooks, and as waters that fail.</hi>
+            </p>
+            <p>The Foundation Corner-stones of our Political Fabrick, being made up of such materials, as sometimes <hi>Moses</hi> (that skilful Master-builder) did make use of by the LORD'S appointment: We shall not only for the present enjoy the blessing <hi>of such Judges as at the first, and Counsellours as at the beginning,</hi> but by the skilful gui<g ref="char:EOLhyphen"/>dence, and safe conduct of such a good Establishment, we shall go on in building, <hi>and the GOD of Heaven will prosper us,</hi> so as in his due time we shall lay the Top-stone with shouting, and cry, <hi>Grace, grace unto it.</hi>
+            </p>
+            <pb n="9" facs="tcp:45847:5"/>
+            <p>We are now upon the borders of a very great Question, which (like the dead body of <hi>Amasa</hi>) hath put many to a stand; and be<g ref="char:EOLhyphen"/>cause it is a part of our profession in these contentious times, to <hi>follow peace, studying to be quiet</hi> (as we are admonished) and have accordingly declined all disputes, controversies, and contentions, (excepting such as are about <hi>that faith, which was once delivered,</hi> for which we must contend, and the vitals of <hi>that mysterie of god<g ref="char:EOLhyphen"/>liness,</hi> which is in it self without controversie.) We are therefore most unwilling to engage in this, if by any means we might have waved it without the danger of detaining such a truth in unrighte<g ref="char:EOLhyphen"/>ousness, as may much conduce to the present and most necessary ser<g ref="char:EOLhyphen"/>vice of the Common-wealth, in the two main points of Religion and Righteousness: Being therefore thus put upon it, and now, that we may with some clearness of satisfaction proceed in this de<g ref="char:EOLhyphen"/>bate, we shall make way towards the Question by these following <hi>Propositions.</hi>
+            </p>
+            <div n="1" type="proposition">
+               <head>PROPOS. I.</head>
+               <p>THe necessary, adequate, and immediate End and object of Civil Government, and consequently of Civil Go<g ref="char:EOLhyphen"/>vernors and Magistrates, (by the rule and reason of their pri<g ref="char:EOLhyphen"/>mative constitution and appointment) is the peace and quiet<g ref="char:EOLhyphen"/>ness of their People, in all godliness and honesty.</p>
+               <p>
+                  <hi>The proof of this Proposition is plain and easie, lying open to the view of all men in the very letter of the text, so as</hi> he that runs may read it, <hi>1</hi> Tim. <hi>2.1, 2.</hi>
+               </p>
+            </div>
+            <div n="2" type="proposition">
+               <head>PROPOS. II.</head>
+               <p>
+                  <hi>CIvil Governours and Magistrates, being qualified for the End and Object of their Constitution and Appoint<g ref="char:EOLhyphen"/>ment, are no lesse necessary to a quiet and peaceable life in all godliness and honestie; and consequently to the wel<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fare and prosperity of their people, then the means is necessary to the at<g ref="char:EOLhyphen"/>tainment of their end.</hi>
+               </p>
+               <pb n="10" facs="tcp:45847:6"/>
+               <p>This Proposition being justly inferred from the former, will need no further proof; though it might be cleared (and that without difficulty) by such an induction of Particulars as would make up a <hi>cloud of witnesses.</hi>
+               </p>
+               <p>Famous is that saying of the Queen of <hi>Sheba,</hi> 2 <hi>Chron.</hi> 9.8. <hi>Be<g ref="char:EOLhyphen"/>cause the LORD thy GOD hath loved</hi> Israel, <hi>to establish them for ever, therefore hath he made thee King over them, to do judgment and justice: Happy are thy men, and happy are thy ser<g ref="char:EOLhyphen"/>vants.</hi> The prosperity of <hi>Judah</hi> was very great in the reign of that good King <hi>Jehoshaphat,</hi> concerning whom we read, that he walked in the first wayes of his father <hi>David;</hi> and (it is expresly said) that <hi>therefore the LORD established his Kingdom.</hi> The goodness of <hi>Jehoshaphat</hi> had such a powerful and blessed influence upon his People, that (as we reade in the story) <hi>He went out from</hi> Beersheba <hi>to</hi> Mount Ephraim, <hi>and brought back the People to the LORD GOD of their Fathers.</hi>
+               </p>
+               <p>The contrary may be seen in the reign of <hi>Rehoboam,</hi> who was an evil-doer in the sight of the LORD: It is said of him, <hi>That when he had strengthned himself, and established the Kingdom, he forsook the Law of the LORD, and all</hi> Israel <hi>with him;</hi> and because of this, <hi>Shishack</hi> King of <hi>Egypt</hi> came up against <hi>Jerusalem,</hi> and took all the fenced Cities of <hi>Judah.</hi>
+               </p>
+               <p>It is said of wicked <hi>Ahaz, That the LORD brought</hi> Judah <hi>low because of</hi> Ahaz, <hi>for he transgressed sore against the LORD.</hi>
+               </p>
+               <p>The like is said concerning <hi>Jeroboam the son of Nebat, who made Israel to sin.</hi>
+               </p>
+            </div>
+            <div n="3" type="proposition">
+               <head>PROPOS. III.</head>
+               <p>
+                  <hi>THe welfare and prosperity of a People being bound-up in such qualified Governors and Magistrates, as the end is bound up in the use of means; it must needs follow, That the Choice and Election of Governors and Magistrates (especi<g ref="char:EOLhyphen"/>ally of Supream) is an act of highest concernment unto any Peo<g ref="char:EOLhyphen"/>ple; and as an Act of such concernment, ought accordingly to be attended, in respect of care and counsel.</hi>
+               </p>
+               <pb n="11" facs="tcp:45847:6"/>
+               <p>It was highly commendable in <hi>Ahasuerus,</hi> that in all matters of importance, he applyed himself unto the wise men who knew the times; and this (as is recorded of him) was the Kings manner towards all that knew LAVV and Judgment.</p>
+               <p>Excellent and most pertinent is that of which we read concerning some of the Tribes, who (in a case of such choice and election, as is the very subject of our present discourse) did not trust a pro<g ref="char:EOLhyphen"/>miscuous inconsiderate mixed multitude, with Affairs of such tran<g ref="char:EOLhyphen"/>scendent Consequence, but that the businesse might be managed with all wisdom, care and counsel requisite, they imployed a certain number of select men <hi>(being heads of the Tribe.) who were such as had understanding of the times, to know what Israel ought to do, and all their brethren were at their commandment,</hi> 1 <hi>Chron.</hi> 12.32.<note place="margin">1 <hi>Chron.</hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> and (as in this abovementioned) so the like care and course was taken, in these following instances, which do directly argue to the point in hand. When <hi>David was elected</hi> King over <hi>Israel,</hi> (2 <hi>Sam.</hi> 5.) in that case, the common people acted mediatly, and in some sort;<note place="margin">2 <hi>Sam.</hi> 5</note> but the Elders of <hi>Israel</hi> acted eminently and immediatly, <hi>ver.</hi> 3. For it is said expresly, <hi>the Elders of Israel came to the King to Hebron, and King David mad<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a League with them in Hebron before the LORD, and they anointed David King over Israel.</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>The Election that was made of Governours and Magistrates, <hi>Exod.</hi> 18. was partly by the People, but especially by <hi>Moses.</hi>
+               </p>
+               <p>The Election that was made of <hi>Jephtah</hi> to be a Judge in <hi>Israel</hi> was eminently and immediatly by the Elders of <hi>Gilead,</hi> as appears at large in the 11. of <hi>Judges,</hi>
+                  <note place="margin">Judg. <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> to which Act of theirs they had the ap<g ref="char:EOLhyphen"/>probation and concurrence of their People, <hi>ver.</hi> 11.</p>
+               <p>The safety, and welfare of a People is thus provided for, not on<g ref="char:EOLhyphen"/>ly by the LORDS expresse appointment, and prescription, but by the common rules of Policy, and principles of Reason. Hence is that old approved Axiom; <hi>Salus populi suprema Lex. Summa salus Rei-publica non est periclitanda.</hi>
+               </p>
+            </div>
+            <div n="4" type="proposition">
+               <head>PROPOS. IV.</head>
+               <p>
+                  <hi>A Promiscuous mixed multitude of people (considered as a multitude) are not qualified with requisites for any Act of Councel in a case of highest concernment.</hi>
+               </p>
+               <p>It is somewhere said in the Proverbs, <hi>that every purpose is esta<g ref="char:EOLhyphen"/>blished
+<pb n="12" facs="tcp:45847:7"/> by counsel:</hi> that <hi>without Councel purposes are disappoint<g ref="char:EOLhyphen"/>ed,</hi> and that in a <hi>multitude of counsellors there is safety;</hi> But in a multitude of common people there is nothing else but faction, contradiction and confusion.</p>
+               <p>The Commonwealth of <hi>Israel</hi> were a peculiar people in respect of other Nations; yet it is expresly said of them (being collectively considered) <hi>They are a Nation void of counsel, neither is there any understanding in them, Deut.</hi> 32.28.</p>
+            </div>
+            <div n="5" type="proposition">
+               <head>PROPOS. V. [And so we fall upon the point in question.]</head>
+               <p>
+                  <hi>THe choice and Election of Governours and Magistrates being an Act of Councel, in a case of highest concern<g ref="char:EOLhyphen"/>ment, ought not to be committed meerly, eminently, or immedi<g ref="char:EOLhyphen"/>ately, to the ordering and managing of a mixed and promis<g ref="char:EOLhyphen"/>cuous mulitude.</hi>
+               </p>
+               <p>This Proposition, considering the premises, will be very clearly proved both by Scripture-Presidents, and by the rules of Reason.</p>
+               <p>And thus much may be interposed not unseasonably, that by the LAW of <hi>England,</hi> the choice and election of Supream Magistrates is not in the People, as people of <hi>England,</hi> for then it would extend to all, according to that approved Rule, <hi>à quatenus ad omne, valét consequentia;</hi> But all the People of <hi>England</hi> are not under the qua<g ref="char:EOLhyphen"/>lification of choosing and electing their Supream Magistrates; for many thousands are excluded by not having so much Land or E<g ref="char:EOLhyphen"/>state as the LAW requires; which yet being duly weighed in the bal<g ref="char:EOLhyphen"/>lance of equity, doth not so much unfit a man for such a pri<g ref="char:EOLhyphen"/>viledge, as defects falling under a morall consideration; and if the Law of <hi>England</hi> which hath excluded these, shall admit of other multitudes; (acting in such a case, both immediatly and promiscu<g ref="char:EOLhyphen"/>ously) we must crave leave, (in a time of so much liberty) to declare and enter our dissent against it, for these following Reasons.</p>
+               <div n="1" type="reason">
+                  <head>REASON I.</head>
+                  <p>
+                     <hi>An Act of Councel, in acase of highest concernment, ought not to be committed meerly, eminently, or immediatly, to a mixed and promiscuous multitude.</hi>
+                  </p>
+                  <pb n="13" facs="tcp:45847:7"/>
+                  <p>
+                     <hi>But the choice and election of Supream Magistrates is an act of councel in a case of highest concernment.</hi>
+                  </p>
+                  <p>
+                     <hi>Therefore the choice and election of Supream Magistrates ought not to be committed meerly, eminently, or immediatly, to a mixed and promiscuous multitude.</hi>
+                  </p>
+                  <p>In this Argument the <hi>Major</hi> is clearly proved by the fourth Proposition: To which we may adde for further confirma<g ref="char:EOLhyphen"/>tion that which is said in <hi>Ecclesiastes, The words of wise men are heard in quiet, more then the cry of him that ruleth among fools.</hi> Acts of Councel do proceed from Counsellors, not from the common sort of people. A Counsellor doth denote and signifie a man of wis<g ref="char:EOLhyphen"/>dom, worth, and honour; Hence is that which we read of <hi>Zechari<g ref="char:EOLhyphen"/>ah,</hi> he was <hi>a wise Counsellor.</hi> And to the same effect it is said els<g ref="char:EOLhyphen"/>where, <hi>The Law shal not perish from the Priest, nor counsel from the wise.</hi> And if counsell be a PROPER ADJUNCT of wisdom and prudence, it cannot be expected from confused multitudes.</p>
+                  <p>The <hi>Minor</hi> needs no further proof then is contained in the third Proposition, wherein this above the rest is worthy to be reminded, They who sent the Heads and Elders of their Tribe, to elect and choose a King over <hi>Israel,</hi> did surely look at it as an Act of Councel in a case of highest concernment. And hence it was, that for such a speciall service they did select and imploy such, (and only such) <hi>who had understanding of the times, to know what Israel ought to do; and all their brethren were at their commandment.</hi>
+                  </p>
+               </div>
+               <div n="2" type="reason">
+                  <head>REASON II.</head>
+                  <p>That wherein the wel-fare and prosperity of a people is bound-up, and doth especially consist, ought not to be committed unto any by whom it is exposed to apparent prejudice. <hi>(For, as is already said in the third Proposition)</hi> Summa salus Reipublicae non est periclitanda.</p>
+                  <p>But the welfare and prosperity of a people is bound up, and doth especially consist in the choice and election of their Governours and Magistrats, being qualified as aforesaid; <hi>which is clearly and fully proved in the fore-going Propositions.</hi>
+                  </p>
+                  <p>Therefore the choice and election of Governors and Magistrates ought not to be committed unto any by whom it is exposed to appa<g ref="char:EOLhyphen"/>rent prejudice.</p>
+                  <pb n="14" facs="tcp:45847:8"/>
+                  <p>
+                     <hi>And by the force of such a consequence, as is very evident, it clear<g ref="char:EOLhyphen"/>ly followes,</hi> That the choice and election of Governors and Magi<g ref="char:EOLhyphen"/>strates ought not to be committed to a mixed and promiscuous multitude: <hi>(the hazard and prejudice of acting by such means, and in such a manner, having been so fully demonstrated both by the fourth Proposition, and by the proofs subjoyned to the for<g ref="char:EOLhyphen"/>mer Argument.)</hi>
+                  </p>
+               </div>
+               <div n="3" type="reason">
+                  <head>REASON III.</head>
+                  <p>
+                     <hi>The best presidents and patterns (as most worthy of imitation and acceptance) ought alwayes to be observed; and consequently in the choice and election of Magistrates.</hi>
+                  </p>
+                  <p>We cannot but conceive, that this Proposition is without exce<g ref="char:EOLhyphen"/>ption, and will passe for current, unlesse it fall into the hands of men bereaved of reason, and so far destitute of the truth, that they call good evill, and evill good, putting darknesse for light, and light for darknesse.</p>
+                  <p>
+                     <hi>But the presidents and patterns already offered in the fore-going Propositions, for the choice and election of Governors and Magi<g ref="char:EOLhyphen"/>strates are best</hi> (as being Scripture-presidents) <hi>and best,</hi> as most a<g ref="char:EOLhyphen"/>greeable to rules of Policy and reason.</p>
+                  <p>
+                     <hi>Therefore the presidents and patterns (offered as aforesaid) in the present case, ought accordingly to be observed.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="proposition">
+               <head>PROPOS. VI. (And so we shall conclude with the offer of a meet accommodati<g ref="char:EOLhyphen"/>on, and expedient for the peoples liberty.)</head>
+               <p>
+                  <hi>THe choice and election of Governors and Magistrates (to Su<g ref="char:EOLhyphen"/>pream Authority) though it ought to be committed emi<g ref="char:EOLhyphen"/>nently and immediatly to some selected persons, being men of coun<g ref="char:EOLhyphen"/>sell, who have understanding of the times to know what</hi> Israel <hi>ought to do; yet it ought to be committed to them by the vote and suf<g ref="char:EOLhyphen"/>frage of the people; so as the people may be truly said to act by them:</hi> for, so it was in the fore-going instances, (Proposition the third) and this agrees with that approved rule in reason, <hi>Quod tangit omnes, debet approbari ab omnibus.</hi>
+               </p>
+               <p>We foresee and consider, that in the further prosecution of this point we may be drawn to wade beyond our depth, and therefore
+<pb n="15" facs="tcp:45847:8"/> we shall forbear to undertake the explication and application of it, so as it may be practicable in our next Establishment, which we trust will be, not only by an equal Representative, (without King or House of Lords, concerning which, many things to little purpose have been long pretended) but by a godly Representative of just and righteous men, ruling in the fear of GOD, who shall be to us in this Nation, <hi>as the light of the morning when the sun riseth, even a morning without clouds, and as the clear sunshine after rain.</hi>
+               </p>
+            </div>
+            <div type="petition">
+               <p>And now, having done with this digression, we return to that which yet remains of our Petition. And in the next place, we be<g ref="char:EOLhyphen"/>seech your Excellency, in our Saviour's words, <hi>To beware of men;</hi> and to beware of all designing men; of ambitious-covetous men; of pretending-flattering men; of self-loving, and self-seeking men; (and more especially, in order to our next Establishment, for pre<g ref="char:EOLhyphen"/>vention of such Grievances in, or by the same, as we have sometimes groaned under.) There are many in these times, who for their own ends, at such a turn as this, will be free and forward (as ever <hi>Jehu</hi> was) to shew their <hi>Zeal for the LORD;</hi> but when they find themselves confirmed and established in a trust of highest concern<g ref="char:EOLhyphen"/>ment, they will <hi>worship the golden calves</hi> of gain and profit, which were the bane and ruine of their Predecessors.</p>
+               <p>We shall presume no further at the present, upon your Excel<g ref="char:EOLhyphen"/>lency, but to continue our Petition in this one particular:</p>
+               <p>
+                  <hi>That equal care may be had, aswel for purity and simplicity of</hi> GOSPEL-ORDINANCES, <hi>as for</hi> LIBERTY. That (on the one hand) no Doctrines, Practices, Traditions, and Inventions may be any way allowed, maintained, or admitted, which the Lord JE<g ref="char:EOLhyphen"/>SUS hath professed his dislike and hatred of.</p>
+               <p>If Magistrates, as Magistrates be deprived of that power at this day, which formerly they had in cases of this nature; it is worthy to be considered both when, and how they lost it. In the Apostle <hi>Paul</hi>'s time they were not meerly and only tied to a cognizance of Civil Cases: for, we find in 1 <hi>Tim.</hi> 1.9. <hi>that the</hi> LAW (which of necessity must be put in execution by those who bear the Sword of Justice, according to the nature and quality of the offence) was not then confined and limited to the punishment of <hi>Murders, Adulte<g ref="char:EOLhyphen"/>ries, and such transcendent enormities,</hi> only of a civil nature, but that it was as well extended to WHATSOEVER IS CONTRA<g ref="char:EOLhyphen"/>RY
+<pb n="16" facs="tcp:45847:9"/> TO SOUND DOCTRINE, (and especially were such a con<g ref="char:EOLhyphen"/>trariety was agravated and attended with professed contumacy.)</p>
+               <p>It is evident and undeniable, That Magistrates under the old Te<g ref="char:EOLhyphen"/>stament were not confined to Civil Cases within the compass of the second Table, but that they acted as well in Cases of a Religious Nature, and within the compasse of the first: For, in those times the Idolatry of <hi>Micah</hi> was charged upon a deficiency and privation of Government, as the blameable cause of that accursed practice: for it is expresly said, <hi>There was no King in Israel,</hi> and therefore <hi>every man</hi> (as well in matters of the first Table, as in matters of the second) <hi>did what was right in his own eyes;</hi> which implies, that if there had been any King in <hi>Israel,</hi> doing his duty, such dis<g ref="char:EOLhyphen"/>orders in <hi>Israel</hi> had not been suffered.</p>
+               <p>The adaequate object of Civil Governours and Magistrates, is, The peace and quietness of their People in all godlinesse and honesty: <hi>Ergo,</hi> to confine and limit them meerly and only to Moral righte<g ref="char:EOLhyphen"/>ousnesse, and Common honesty (as their adaequate object) is an er<g ref="char:EOLhyphen"/>ror of pernitious consequence.</p>
+               <p>In the last place (and on the other hand) concerning LIBERTY. Though we may allow our selves to say the lesse, seeing, by the help of many powerful ADVOCATES, it hath had, and obtained more favour in this Age then any other truth; yet (on this behalf) we most humbly and unfainedly desire, The exercise and Improvement of all holy care, for the preservation of <hi>that Liberty wherewith CHRIST hath made us free, that we may not be again entang<g ref="char:EOLhyphen"/>led in any Yoke of Bondage.</hi>
+               </p>
+               <p>For these ends, We commend your Excellency to the grace of CHRIST JESUS, most humbly desiring, that (for the further service of your generation, according to the will of GOD in such a case as this, and at such a season) <hi>the power of</hi> CHRIST <hi>may rest upon you,</hi> that you may not onely hold on your way, but <hi>grow stronger and stronger;</hi> and that <hi>Your Works</hi> (both in seeking and procuring the Peace and welfare of the COMMON-VVEALTH) <hi>may be more at last then at the first:</hi> that (as the LORD hath pro<g ref="char:EOLhyphen"/>mised in a time of special favour to his people) he may delight to accept and honour you <hi>in building the old wast places, and in lay<g ref="char:EOLhyphen"/>ing the foundations</hi> (even such as are of Saphir) <hi>for many genera<g ref="char:EOLhyphen"/>tions; that so you may be called, The Reparer of the Breach, the Restorer of Paths to dwell in.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="17" facs="tcp:45847:9"/>
+            <head>This REMONSTRANCE and PETITION was inclosed in a Letter, directed to His <hi>EXCELLENCY;</hi> A Copy whereof here followeth.</head>
+            <opener>
+               <salute>May it please Your EXCELLENCY,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we judge our selves, (as we have just cause) to be lesse then the least of all those Saints and Servants of the LORD, who act in this Re<g ref="char:EOLhyphen"/>monstrance and Petition as Authors of it; Yet we only are appointed in their name and behalf, to present the same unto Your EX<g ref="char:EOLhyphen"/>CELLENCY; and if in such a Criticall time, and under such a Revolution as this, it should be deman<g ref="char:EOLhyphen"/>ded of us by Your Lordship, as sometimes <hi>David</hi> did of <hi>Amasa,</hi> when he said unto him, <hi>Comest thou peace<g ref="char:EOLhyphen"/>ably?</hi> We would make Answer to Your EXCEL<g ref="char:EOLhyphen"/>LENCY in the words of <hi>Amasa,</hi> and we hope (through the grace of <hi>CHRIST</hi>) with the very same spirit; <hi>Thine are we, David, and thine thou son of Jesse; peace, peace be unto thee, and peace be to thine
+<pb n="18" facs="tcp:45847:10"/> helpers, for thy GOD helpeth thee.</hi> Having gi<g ref="char:EOLhyphen"/>ven this accompt of our selves, and of them whom we represent, (which at this time is not impertinent) we shall no longer detain Your EXCELLENCY from perusing this inclosed; wherein, though we give Your Lordship but a short <hi>Synopsis</hi> of those Pressures and Grievances which are oppressive to this Nation; yet in the reformation and redresse thereof, Your EXCEL<g ref="char:EOLhyphen"/>LENCY may expect to meet with no lesse work and labour, then <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ki<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> had <hi>in cleansing of the Temple;</hi> But this may be abundantly enough to sweeten the toyl and travell of all Your Holy Under-takings (in this wearisom Pilgrimage) that <hi>Your labour shall not be in vain in the LORD;</hi> and that <hi>he is faithfull who hath pro<g ref="char:EOLhyphen"/>mised, he will never l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave you, nor forsake you.</hi>
+            </p>
+            <p>At this present time, wherein (we trust and will believe) the Day of Reformation doth begin to dawne; it is fully in our hearts to be engaged for the LORD; and with his faithfull Servants, as it was in theirs upon the like occasion, when they said to <hi>Ezrah; Arise, for these mat<g ref="char:EOLhyphen"/>ters do belong to thee, we also will be with thee; be of good courage, and do them.</hi>
+            </p>
+            <closer>
+               <signed>Your EXCELLENCIES most faithfull and most willing Servants</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
